@@ -1,2 +1,2 @@
 # Stock_Price_Tracker
-A Stock Price Tracker with GUI in python and tkinter.
+A Stock Price Tracker made with GUI in python and tkinter.
